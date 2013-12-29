@@ -5,8 +5,8 @@ var DesktopData = DesktopData || (function () {
         update: function() {
         return ([
             {   desktop: "",
-                icon: "./img/pacman.png",
-                name: "Pacman",  
+                icon: "./img/panduan.png",
+                name: "Panduan Ramayana",  
             }
         ]);
 
